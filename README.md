@@ -199,7 +199,7 @@ This project models those requirements using synthetic data, demonstrating how r
 
 This repository is shared for portfolio and demonstration purposes.
 
-Please contact the author for permission before reusing or redistributing the code.
+Please contact the author before reusing or redistributing the code.
 
 ----------
 
